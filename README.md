@@ -1,22 +1,15 @@
 ##How to run the Web Opimization sample page:
 
-# Go to: http://mahoneyz.github.io/P4_WebOptimization/
+Go to: http://mahoneyz.github.io/P4_WebOptimization/
 
- OR to download and run locally:
+Received PageSpeed Insights score of 
 
-#1
+**94/100 Mobile and
+**95/100 Desktop
 
-	Go to to https://github.com/mahoneyz/P4_WebOptimization and click on the
+(https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fmahoneyz.github.io%2FP4_WebOptimization%2F&tab=mobile)
 
-#2
-	Click on 'Download Zip' button
-
-#3
-	Save it to a directory and then unzip the P4_WebOptimization-master to a folder on your computer
-
-#4
-	Change to the folder and open Index.html in Google Chrome.
-
+ 
 # # # # # # # # # # # # # # # # # # # # #
 
 
